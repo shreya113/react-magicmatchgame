@@ -1,3 +1,9 @@
+# This is a magic-match game built in react
+
+It flips cards and whenever two matching cards turn up the do not flip back
+Number of turns taken to match all the cards are mentained
+States are mentained and hooks are used to update states
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
